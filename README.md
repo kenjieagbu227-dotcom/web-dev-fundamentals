@@ -12,7 +12,7 @@
 5. [JavaScript Basics](#javascript-basics)
 6. [Responsive Design](#responsive-design)
 7. [Mini Project](#mini-project)
-8. [Next Steps](#next-steps)
+
 
 
 
