@@ -1,18 +1,43 @@
+# Web Development Fundamentals
 
-🌐 Web Development Fundamentals  
-*Learn the core skills to become a modern web developer — from scratch.*
+A clear and structured beginner guide to the core skills of modern web development.
+
+Learn how the web works and build a solid foundation with HTML, CSS, and JavaScript — including responsive design and a mini portfolio project.
 
 ---
 
- 📖 Table of Contents
-1. [Introduction](#introduction)
-2. [How the Web Works](#how-the-web-works)
-3. [HTML Basics](#html-basics)
-4. [CSS Basics](#css-basics)
-5. [JavaScript Basics](#javascript-basics)
-6. [Responsive Design](#responsive-design)
-7. [Mini Project](#mini-project)
+## Table of Contents
 
+1. [Introduction](introduction.md)
+2. [HTML Basics](html_basics.md)
+3. [CSS Fundamentals](css_fundamentals.md)
+4. [JavaScript Basics](javascript_basics.md)
+5. [Responsive Design](responsive_design.md)
+6. [Mini Project: Portfolio](mini_project_portfolio.md)
 
+---
 
+## What You'll Learn
 
+- How the web works (clients, servers, and browsers)
+- Semantic and accessible HTML
+- Modern CSS (Flexbox, Grid, and responsive techniques)
+- JavaScript fundamentals (variables, functions, DOM manipulation)
+- Building a simple personal portfolio page
+
+---
+
+## Who This Is For
+
+Absolute beginners who want a clean, step-by-step starting point for web development.
+
+---
+
+## Author
+
+**Ken Dev**  
+Bulacan, Philippines
+
+---
+
+> Learning never stops. Build something every day.
